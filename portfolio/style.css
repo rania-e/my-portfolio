@@ -1,0 +1,17 @@
+h2{
+    color: orange;
+    font-family: fantasy;
+}
+
+#rania{
+    color: turquoise;
+}
+
+.ywalilounhomasfer{
+    color: yellow;
+}
+
+a:hover{
+    color: violet;
+    font-size: 50px;
+}
